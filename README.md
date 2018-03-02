@@ -13,9 +13,9 @@ This module can be used in many types of projects such as:
  - prevent password sharing and abuse of service 
  - geotargeting in advertisement
 
-The database will be updated in monthly basis for the greater accuracy. Free sample DB1 database is available at /samples directory or download it from http://www.ip2location.com/developers.htm.
+The database will be updated in monthly basis for the greater accuracy. Free sample DB1 database is available at /samples directory or download it from https://www.ip2location.com/developers.htm.
 
-The complete database is available at http://www.ip2location.com under Premium subscription package.
+The complete database is available at https://www.ip2location.com under Premium subscription package.
 
 
 Installation
@@ -29,12 +29,12 @@ Dependencies
 ============
 
 This library requires IP2Location BIN data file to function. You may download the BIN data file at
-* IP2Location LITE BIN Data (Free): http://lite.ip2location.com
-* IP2Location Commercial BIN Data (Comprehensive): http://www.ip2location.com
+* IP2Location LITE BIN Data (Free): https://lite.ip2location.com
+* IP2Location Commercial BIN Data (Comprehensive): https://www.ip2location.com
 
 
 Copyright
 =========
-Copyright (C) 2016 by IP2Location.com
+Copyright (C) 2018 by IP2Location.com
 
 Licensed under LGPLv3
